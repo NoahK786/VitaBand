@@ -1,0 +1,2 @@
+[runner]
+entrypoint = 'python app/app.py'
